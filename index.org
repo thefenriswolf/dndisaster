@@ -1,8 +1,11 @@
 #+title: DnDisaster
 #+subtitle: -
-#+author: Stefan Rohrbacher
+#+author: Stefan Rohrbacher,
 #+author: Tanja Rumpelmaier
 #+latex_class: book
+#+latex_class_options: [11pt, a4paper, twoside]
+#+latex_header: \usepackage[main=ngerman]{babel}
+#+keywords: DnD
 #+auto_tangle:nil
 * Intro\label{intro}
 
