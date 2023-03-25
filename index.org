@@ -1,0 +1,6 @@
+#+title: DnDisaster
+#+subtitle:
+#+author: Stefan Rohrbacher
+#+author: Tanja Rumpelmaier
+#+latex_class: book
+#+auto_tangle:nil
