@@ -131,7 +131,7 @@ In jedem Gebiet gibt es Trolle, Orks, Zyklopen und Riesen.
 
 ** Nomaden und Omnipräsente Wesen
 *** Me und Me\label{meme}
-2 ungleiche Zwillinge, ein Halbelf und ein Gnom betreiben gemeinsam einen fahrenden Handel. Sie sind der festen Überzeugung Geschwister zu sein obwohl sie sich kein bisschen ähnlich sehen. Gezogen wird ihr Wagen von 2 Haflinger-Pferden Lo und Rd.
+2 ungleiche Zwillinge, ein Halbelf und ein Gnom(\ref{table:me1stats}) betreiben gemeinsam einen fahrenden Handel. Sie sind der festen Überzeugung Geschwister zu sein obwohl sie sich kein bisschen ähnlich sehen. Gezogen wird ihr Wagen von 2 Haflinger-Pferden Lo und Rd.
 \begin{figure}[H]
 \centering
 \caption{Die Händler Me und Me}
@@ -142,6 +142,24 @@ In jedem Gebiet gibt es Trolle, Orks, Zyklopen und Riesen.
     %\caption{Ethera}
   \end{subfigure}
 \end{figure}
+
+| *Mo (Gnom)*             | \label{table:me1stats}                    |
+|-------------------------+-------------------------------------------|
+| *Rüstungsklasse*        | 15                                        |
+| *Lebenspunkte*          | 16                                        |
+| *Geschwindigkeit*       | 20ft                                      |
+| *Sprachen*              | Gnomisch, Gemeinsprache                   |
+|                         |                                           |
+| *Spitzhacke*            | Nahkampf: +4 auf Treffer,                 |
+|                         | Reichweite 5ft, ein Ziel, 6(1W8+2)        |
+| *vergifteter Dartpfeil* | Fernkampf: +4 auf Treffer,                |
+|                         | Reichweite 30/120ft, ein Ziel,            |
+|                         | 4(1W4+2), Ziel muss CON (12)              |
+|                         | rollen, ansonsten Vergiftung für 1 Minute |
+
+|  *STR* |  *DEX* |  *CON* |  *INT* |  *WIS* | *CHA* |
+|--------+--------+--------+--------+--------+-------|
+| 15(+2) | 14(+2) | 14(+2) | 12(+1) | 10(+0) | 9(-1) |
 
 #+latex: \newpage
 
@@ -291,7 +309,7 @@ Affenmenschliches, scheues, aber dennoch aggressives Wesen; wurde seit jeher von
 \end{figure}
 
 *** Zerberus\label{zerberus}
-2 Meter großer Wolf mit 3 Köpfen und riesigen Fangzähnen; ist ein Bruder der einköpfigen Chimäre und höchst gefährlich; hat einen hohen Verteidigungswert und ist sehr stark
+2 Meter großer Wolf mit 3 Köpfen und riesigen Fangzähnen; ist ein Bruder der einköpfigen Chimäre und höchst gefährlich; hat einen hohen Verteidigungswert und ist sehr stark.
 \begin{figure}[H]
 \centering
 \caption{Zerberus}
@@ -313,8 +331,32 @@ Affenmenschliches, scheues, aber dennoch aggressives Wesen; wurde seit jeher von
   \end{subfigure}
 \end{figure}
 
+| *Zerberus*               | \label{table:zerberusstats}                    |
+|--------------------------+------------------------------------------------|
+| *Herausforderung*        | 3 (700XP)                                      |
+| *Rüstungsklasse*         | 17                                             |
+| *Lebenspunkte*           | 50                                             |
+| *Geschwindigkeit*        | 50ft                                           |
+| *Sprachen*               | -                                              |
+| *Immunität*              | Feuer                                          |
+| *passive Fähigkeiten*    | gutes Gehör und gute Nase:                     |
+|                          | Vorteil auf *WIS* bei hören und riechen        |
+|                          |                                                |
+| *Biss*                   | Nahkampf: +5 auf Treffer,                      |
+|                          | Reichweite 5ft, 3 Ziele, 7(1W8+3) Stichschaden |
+|                          | und 7(2W6) Feuerschaden                        |
+| *Feueratem* (Aufladen 5) | Flächenschaden in 15ft Umkreis                 |
+|                          | Ziele müssen *DEX* (12) rollen                 |
+|                          | getroffene nehmen 21(6W6) Feuerschaden         |
+|                          | ausgewichene nehmen 11(3W6) Feuerschaden       |
+
+|  *STR* |  *DEX* |  *CON* | *INT* |  *WIS* | *CHA* |
+|--------+--------+--------+-------+--------+-------|
+| 17(+3) | 12(+1) | 14(+2) | 6(-2) | 13(+1) | 6(-2) |
+
+
 *** Werwölfe\label{werwolf}
-unterstehen Zerberus und sind sehr aggressiv und gefährlich; sie riechen außerordentlich gut und fressen alles, was ihnen in die Quere kommt; untertags stellen sie ein menschliches Bergvolk dar, während sie in der Nacht zu blutrünstigen Monstern werden;
+Sehen Zerberus (s. \pageref{table:zerberusstats}) als Alphatier und sind sehr aggressiv und gefährlich; sie riechen außerordentlich gut und fressen alles, was ihnen in die Quere kommt; untertags stellen sie ein menschliches Bergvolk dar, während sie in der Nacht zu blutrünstigen Monstern werden;
 \begin{figure}[H]
 \centering
 \caption{Werwolf}
@@ -387,7 +429,7 @@ Lebt in den Katakomben von Astrario, ist ein uraltes und sehr weises Wesen. Ist 
 \end{figure}
 
 *** Harpyien\label{harpie}
-Im Umland von Astrario gibt es ein verstecktes Harpyien - Lager, bestehend aus 2 Harpyien; sie haben die Körper schöner Jungfrauen, aber Flügel von Geiern und lange Krallen; sie verschleppen Menschen und nehmen ihnen das Essen weg, um sie lange leiden zu sehen; sie zerstören auch mutwillig die Ernten der Menschen; sie fürchten Blasmusik, Gesang und generell Musik - nur dadurch sind sie zu vertreiben bzw. Umzubringen
+Im Umland von Astrario gibt es ein verstecktes Harpyienlager, bestehend aus 2 Harpyien; sie haben die Körper schöner Jungfrauen, aber Flügel von Geiern und lange Krallen; sie verschleppen Menschen und nehmen ihnen das Essen weg, um sie lange leiden zu sehen; sie zerstören auch mutwillig die Ernten der Menschen; sie fürchten Blasmusik, Gesang und generell Musik - nur dadurch sind sie zu vertreiben bzw. Umzubringen
 \begin{figure}[H]
 \centering
 \caption{Harpyien}
