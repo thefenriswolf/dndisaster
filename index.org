@@ -1,5 +1,5 @@
-#+title: DnDisaster
 #+subtitle: \includegraphics[width=\linewidth]{wallpaper1.jpeg}
+#+title: DnDisaster
 #+author: Stefan Rohrbacher,
 #+author: Tanja Rumpelmaier
 #+latex_class: article
@@ -15,13 +15,16 @@
 #+latex: \newpage
 
 * Ideensammlung
-- Questidee: Smaragdring von den schwarzen Büchern zurückholen
-- Questidee: Menschen wurden entführt und man soll sie im Lager befreien und die Harpyien besiegen
-- Questidee: Kannibalen-Hexe, die Kinder entführt und in einer Höhle roh verspeist; die Abenteurer müssen sie besiegen und die Kinder - sofern möglich - retten
-- Tal der Schatten (Ork-Dorf)
-- Wüste des Infernos (Süden) mit einer einzelnen Oase
-- Endquest: Das Rätsel um Schloss Schattenhall → Es handelt sich um das Besiegen eines Drachen. Seine Schuppen sind aus Papier sowie Büchern und er hat einen Eisatem
-
+ [] Questidee: Smaragdring von den schwarzen Büchern zurückholen
+ [] Questidee: Menschen wurden entführt und man soll sie im Lager befreien und die Harpyien besiegen
+ [] Questidee: Kannibalen-Hexe, die Kinder entführt und in einer Höhle roh verspeist; die Abenteurer müssen sie besiegen und die Kinder - sofern möglich - retten
+ [] Tal der Schatten (Ork-Dorf)
+ [] Wüste des Infernos (Süden) mit einer einzelnen Oase
+ [] Endquest: Das Rätsel um Schloss Schattenhall → Es handelt sich um das Besiegen eines Drachen. Seine Schuppen sind aus Papier sowie Büchern und er hat einen Eisatem
+ [x] Astario: Eintritt nur mit Passierschein, Gangster bietet Hintertür gegen Geld, versucht Spieler zu betrügen, wenn sie ihn töten -> mafia gegen sich
+ [x] Astario: Mafiaboss will Putsch
+ [] Wald der Giganten: junger Ork Häuptling muss zu einem Anführer heranwachsen nachdem sein Vater gestorben ist
+ [] Astario: Schmied in Not (Hattori)
 
 * Intro
 - Land: Sommerset (Kesäsarja in Elfisch, Saamnom’raduv in Zwergisch) - Jahr 1250
@@ -52,15 +55,31 @@ Es gibt viele Tiere, aber auch einige Orklager. Es gibt Hausbäume und Transport
 Ein riesiges Bergmassiv, ähnlich dem Himalaya, erstreckt sich im Norden des Landes. Es ist das Land des ewigen Winters, bevölkert von Eisbären, Eis-Orks und Eistrollen. Man munkelt, es gäbe auch Eisriesen und Yetis (s. \pageref{yeti}) - wer weiß das schon? Mitten in dieser kargen und unfruchtbaren Landschaft hat sich ein Zwergenvolk tief im Inneren des Berges Kunēsa eingenistet. Sie sind die Nachfahren von Holgar Hammerhand. Ein stolzes und mächtiges Zwergenvolk verfeindet mit den Waldelfen und geschickt bei der Bearbeitung von (Edel-)Steinen. Sture, starrköpfige und eigenbrötlerische Gestalten. Hat man ihr Herz gewonnen, so sind sie loyal bis in den Tod. Sie haben ihr eigenes Schriftsystem (aus Runen), ihre eigene Sprache sowie Kultur im Laufe der Jahrhunderte entwickelt. Sie sind der Meinung, dass sie die Erstgeborenen in Sommerset waren und nicht die arroganten Hochelfen. Mit den Waldelfen sind sie seit dem Krieg des Zorns (Vihan sota in Elfisch und Krôdha di jâga in Zwergisch), im Jahre 500 der Zeitrechnung Sommersets verfeindet. Grund für den Krieg war das Abholzen der weißen Mahagonibäume. Diese Bäume gehen zurück bis zur Entstehung Sommersets - sie waren die ersten Bäume und sind daher für die Waldelfen heilig. Die Zwerge fanden sie besonders stabil und schätzten ihre lange Brenndauer, weshalb sie diese fällten. Dadurch brach ein erbitterter Krieg zwischen den Völkern aus. Bis heute stehen sich diese beiden Völker misstrauisch, fast sogar feindlich, gegenüber.
 In dieser Landschaft befindet sich auch der verfallene Tempel Kînesheyn (Kinegrove in Zwergisch, Kinegaròva in Elfisch), mit seinen vielen Räumen und Rätseln gilt er als unlösliches Labyrinth. Obwohl er von einem unbekannten Volk erbaut wurde, ist der Name in allen Sprachen ähnlich. Bis heute ist ungewiss, von welchen Wesen er erbaut wurde. Bis jetzt wurde er noch nie entdeckt - vielleicht eine gute Gelegenheit für unsere Abenteurer? Die Tür wird sich nur Personen reinen Herzens öffnen - ist man erst einmal hineingegangen und findet man den Schatz, so bekommt man den Rosetta Stein Sommersets - wichtige Wörter in Zwergisch, Elfisch und der Gemeinsprache aufgelistet → Lösungswort für die Elfenstadt im Wald der Stille: mīt (Zwergisch) = Ystävä (Elfisch) = Freund.
 
-** Astrario - Stadt der Menschen
-Eine mittelalterlich inspirierte Stadt, bewohnt von Menschen (hauptsächlich). Am Stadtrand leben die ärmeren Bürger: Mägde, Bauern, manche Handwerker und Bettler. Je näher man ins Stadtzentrum vordringt, desto reicher werden die Leute. Über der Stadt ragt eine imposante Burg aus weißem Marmor. Diese dient als Wohnsitz des Regenten, aber auch als Universität der menschlichen Magier. Die Stadt hat die üblichen Probleme der Menschen: Armut, Rassismus, Sklaverei, Klassengesellschaft. Individuen der anderen Völker haben sich in der Stadt angesiedelt und leben entweder in Ghettos oder sie werden aufgrund ihrer außerordentlichen Fähigkeiten in den Bereichen der Menschen geduldet. Die Magie forscher "Etheri" (s. \pageref{etheri}) der Universität haben im Verlies der Burg eine gefährliche Entdeckung/Experimente gemacht (Bol'gith). Menschen sind das jüngste Volk in Sommerset und versuchen regelmäßig den anderen Völkern gewaltsam Ressourcen und Land zu entwenden.
-
+** Astario - Stadt der Menschen
+Eine mittelalterlich inspirierte Stadt, bewohnt von Menschen (hauptsächlich), regiert von einem Kaiser. Am Stadtrand leben die ärmeren Bürger: Mägde, Bauern, manche Handwerker und Bettler. Je näher man ins Stadtzentrum vordringt, desto reicher werden die Leute. Über der Stadt ragt eine imposante Burg aus weißem Marmor. Diese dient als Wohnsitz des Regenten, aber auch als Universität der menschlichen Magier. Die Stadt hat die üblichen Probleme der Menschen: Armut, Rassismus, Sklaverei, Klassengesellschaft. Individuen der anderen Völker haben sich in der Stadt angesiedelt und leben entweder in Ghettos oder sie werden aufgrund ihrer außerordentlichen Fähigkeiten in den Bereichen der Menschen geduldet. Die Magie forscher "Etheri" (s. \pageref{etheri}) der Universität haben im Verlies der Burg eine gefährliche Entdeckung/Experimente gemacht (Bol'gith). Menschen sind das jüngste Volk in Sommerset und versuchen regelmäßig den anderen Völkern gewaltsam Ressourcen und Land zu entwenden.
 In der Universität leben nicht nur die Gelehrten, sondern auch sogenannte Buchlinge (s. \pageref{buchling}) (Kreaturen von Walter Moers), kleine zyklopartige Lebewesen, die nur für Bücher leben und alle Bücher eines Autors auswendig lernen.
+Buchlinge sind zwar nach ihren Autor:innen benannt, aber nicht korrekt, sondern in der Form als Anagram.
+*** Ankunft in Astario
+Ausserhalb Astarios Stadtmauern haben sich rund um die Stadt hauptsächlich menschliche Bauern angesiedelt.
+Die ländliche Bevölkerung leidet wirtschaftlich unter der kriegerischen Politik des Kaisers.
+Die Steuerlast ist enorm um den Krieg zu finanzieren, wer nicht bezahlen kann muss Besitz verpfänden oder gar die eigenen Kinder als Sklaven verkaufen.
+Trotz ihrer Entbehrungen sind sie gastfreundlich und hilfsbereit gegenüber reisenden und fremden.
+Die Stadt Astario ist zugänglich über 2 Stadttore, eines im Norden und eines im Süden. Beide werden rund um die Uhr von schwer bewaffneten Wachen bewacht. Wer die Stadt betreten will muss entweder einen Passierschein vorzeigen. Diese existieren in 2 Versionen, die Bewohner von Astario besitzen einen Passierschein aus Pergament. Alle anderen z.B. Händler, Handwerker, Diener, etc. müssen ihre Herren bitten ihnen einen Passierschein aus Leinen zu unterzeichnen, selbstständige Personen bekommen diese Unterschrift vom Oberhaupt der Stadtwache. Passierscheine für andere Rassen als Menschen werden sehr selten ausgestellt.
+Die Wachen kontrollieren jeden Passierschein und prüfen auf Fälschungen (*TODO*: fälschung check). Sie nehmen diese Aufgabe sehr ernst, daher bildet sich täglich eine lange Schlange vor den Stadttoren.
+*** Der Weg in die Stadt
+Den Spielern wird von einer zwielichtigen Person eine Hintertür in die Stadt *(2G/Kopf)* angeboten, dies ist zu diesem Zeitpunkt der einzige Weg in die Stadt.
+Der zweifelhafte Fremdenführer nennt sich Smirre und ist ein Mitglied der mächtigen Mafia von Astario. Er führt die Gruppe nachts über die Kanalysation in die Stadt, es kommt zu einem Überfall von (*TODO*: monster). Wenn Smirre den Kampf überlebt bietet er an die Spieler seinem Boss vorzustellen da dieser mit Sicherheit lukrative Aufträge für sie hat.
+*** Die Nachtigall
+Die Nachtigall ist die Mafia von Astario. Sie kontrollieren einen Großteil des Güterverkehrs der Stadt, die meisten Bordelle, Tavernen und viele andere Geschäfte.
+Mitglieder tragen als Erkennungsmerkmal eine Nachtigallfeder befestigt an ihrer Kleidung.
+Im Gegensatz zur kaiserlichen Armee akzeptiert die Nachtigall auch nicht Menschen als Mitglieder und kooperiert sogar mit dem Sohn des Kaisers der einen Putsch gegen seinen Vater plant.
+*** Universität von Astario
+Sie befindet sich in unmittelbarer Nachbarschaft mit dem kaiserlichen Schloss
+*TODO*: etheri manipulieren kaiser und inhaftieren unschuldige als hexen und anderlinge (auch in vorhergehenden generationen) um opfer für ihren blutgott aus der leere zu haben, nur wenige etheri wissen von dem gott, die anderen glauben ihre kraft kommt von einem amulett welches in wirklichkeit mit dem gott verbunden ist
 
-Buchlinge sind zwar nach ihren Autor:innen benannt, aber nicht korrekt, sondern in der Form als Anagramm.
 Buchlingsnamen: Ydro Blorn, Heidler von Clirrfisch, Freiherr von Dillschic, Ali Aria Ekmirrner, Estrakos, Zank Frakfa, Dr. Fidemus Grund, Sanotthe von Rhüffel-Ostend, Ojahnn Golgo van Fontheweg.
 
-Die Buchlinge wandern zwar in der Bibliothek und in der Stadt frei herum, schlafen aber in der geheimen Bibliothek der Universität. Dort lesen sie lediglich die Bücher ihrer Autor:innen. In Astrario gibt es nicht nur einen Markt, sondern auch einen Buchmarkt sowie einen Schwarzbuchmarkt – das Pendant zu einem Schwarzmarkt. Unsere Abenteurer entdecken diesen per Zufall. Dort wird ihnen heimlich folgender Notiz zugesteckt:
+Die Buchlinge wandern zwar in der Bibliothek und in der Stadt frei herum, schlafen aber in der geheimen Bibliothek der Universität. Dort lesen sie lediglich die Bücher ihrer Autor:innen. In Astario gibt es nicht nur einen Markt, sondern auch einen Buchmarkt sowie einen Schwarzbuchmarkt – das Pendant zu einem Schwarzmarkt. Unsere Abenteurer entdecken diesen per Zufall. Dort wird ihnen heimlich folgender Notiz zugesteckt:
 #+begin_quote
 In tiefen, kalten, hohlen Räumen
 Wo Schatten sich mit Schatten paaren
@@ -99,7 +118,7 @@ Zu seinen Zitaten gehören:
 11. =Es ist besser ein einziges kleines Licht anzuzünden, als die Dunkelheit zu verfluchen. - Konfuzius=
 12. =Cogito ergo sum - René Descartes=
 
-Unterhalb von Astrario befinden sich Katakomben, die einem Labyrinth ähneln. In diesem Leben die träumenden Bücher - eine bestimmte Rasse von Buch, das fühlen, denken und vor allem träumen kann. Träumende Bücher haben eine große Anziehungskraft, sind aber leicht mit Feuer zu bekämpfen. Es gibt auch die Schattenbücher - sogenannte Schwarze Bücher - wer sie öffnet, wird verflucht und erleidet einen Giftschaden. In diesem Labyrinth lebt auch eine Sphinx(p. \pageref{sphinx}). Er ist sehr weise, aber einsam. Wenn man eine Quest für ihn erledigt - bekommt man als Belohnung einen Schatz (Edelsteine).
+Unterhalb von Astario befinden sich Katakomben, die einem Labyrinth ähneln. In diesem Leben die träumenden Bücher - eine bestimmte Rasse von Buch, das fühlen, denken und vor allem träumen kann. Träumende Bücher haben eine große Anziehungskraft, sind aber leicht mit Feuer zu bekämpfen. Es gibt auch die Schattenbücher - sogenannte Schwarze Bücher - wer sie öffnet, wird verflucht und erleidet einen Giftschaden. In diesem Labyrinth lebt auch eine Sphinx(p. \pageref{sphinx}). Er ist sehr weise, aber einsam. Wenn man eine Quest für ihn erledigt - bekommt man als Belohnung einen Schatz (Edelsteine).
 
 ** Die Weitluftebene (Laaja-alainen ilma in Elfisch, Khyāl-Tchōm in Zwergisch)
 Liegt in der Mitte des Gebiets und grenzt im Norden an den Wald der Giganten und im Osten an den weißen Hafen. Diese Ebene ist von sanften, grünen Hügeln geprägt. Es gibt viel Weidefläche und vereinzelte kleine Dörfer. Es handelt sich um ein sehr fruchtbares Gebiet, das von Halblingen bewohnt und bewirtschaftet wird. Halblinge sind das geselligste Volk von Sommerset und stehts mit allen Völkern - bis auf Orks, Trolle etc. befreundet. Halblinge arbeiten als einfache Landwirte, betreiben Tauschhandel und gelten als zufriedene und gutmütige Lebewesen. Durch ihr diplomatisches Geschick haben sie es geschafft, all die Jahre neutral und verschont von Krieg zu bleiben. Die Hauptstadt der Weitluftebene ist Immerwind (Everwindin in Elfisch, Khyāl-cheanich in Zwergisch).
@@ -380,10 +399,10 @@ Sehen Zerberus (s. \pageref{table:zerberusstats}) als Alphatier und sind sehr ag
 
 #+latex: \newpage
 
-** Astrario
+** Astario
 *** Etherus (pl. Etheri)\label{etheri}
 Menschliche Zaubergelehrte die als Quelle ihrer Kraft die Leere anzapfen müssen. Die meisten Etheri wissen nichts von der Leere und glauben ihre Kraft kommt von einem Amulett das ihre natürlichen Fähigkeiten bündelt.
-#+TODO: Beschreibung ausfüllen
+*TODO*: Beschreibung ausfüllen
 \begin{figure}[H]
 \centering
 \caption{Etheri}
@@ -406,7 +425,7 @@ Menschliche Zaubergelehrte die als Quelle ihrer Kraft die Leere anzapfen müssen
 \end{figure}
 
 *** Sphinx\label{sphinx}
-Lebt in den Katakomben von Astrario, ist ein uraltes und sehr weises Wesen. Ist den Lebewesen gut gesinnt, verabscheut die schwarzen Bücher.
+Lebt in den Katakomben von Astario, ist ein uraltes und sehr weises Wesen. Ist den Lebewesen gut gesinnt, verabscheut die schwarzen Bücher.
 \begin{figure}[H]
 \centering
 \caption{Sphinx}
@@ -429,7 +448,7 @@ Lebt in den Katakomben von Astrario, ist ein uraltes und sehr weises Wesen. Ist 
 \end{figure}
 
 *** Harpyien\label{harpie}
-Im Umland von Astrario gibt es ein verstecktes Harpyienlager, bestehend aus 2 Harpyien; sie haben die Körper schöner Jungfrauen, aber Flügel von Geiern und lange Krallen; sie verschleppen Menschen und nehmen ihnen das Essen weg, um sie lange leiden zu sehen; sie zerstören auch mutwillig die Ernten der Menschen; sie fürchten Blasmusik, Gesang und generell Musik - nur dadurch sind sie zu vertreiben bzw. Umzubringen
+Im Umland von Astario gibt es ein verstecktes Harpyienlager, bestehend aus 2 Harpyien; sie haben die Körper schöner Jungfrauen, aber Flügel von Geiern und lange Krallen; sie verschleppen Menschen und nehmen ihnen das Essen weg, um sie lange leiden zu sehen; sie zerstören auch mutwillig die Ernten der Menschen; sie fürchten Blasmusik, Gesang und generell Musik - nur dadurch sind sie zu vertreiben bzw. Umzubringen
 \begin{figure}[H]
 \centering
 \caption{Harpyien}
@@ -452,7 +471,7 @@ Im Umland von Astrario gibt es ein verstecktes Harpyienlager, bestehend aus 2 Ha
 \end{figure}
 
 *** Baba Yaga\label{baba}
-Eine grauenhafte kannibalische Hexe, die am liebsten Kinder verspeist; sie entführt die Kinder Astrario’s; Sie hat keine Beine, sondern ihr Oberkörper steckt in einer Haltevorrichtung, mit der sie springen kann; sie ist sehr langsam und auch sehr laut; schnell bewegen kann sie sich nicht;
+Eine grauenhafte kannibalische Hexe, die am liebsten Kinder verspeist; sie entführt die Kinder Astario’s; Sie hat keine Beine, sondern ihr Oberkörper steckt in einer Haltevorrichtung, mit der sie springen kann; sie ist sehr langsam und auch sehr laut; schnell bewegen kann sie sich nicht;
 \begin{figure}[H]
 \centering
 \caption{Baba Yaga}
@@ -656,3 +675,4 @@ Kopf eines Löwen, Körper einer Ziege; frisst alles, was ihm in die Quere kommt
 - Harry Potter
 - Walter Moers: Zamonien
 - griechische/römische Mythologie
+- Disco Elysium
