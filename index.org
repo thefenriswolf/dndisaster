@@ -2,6 +2,7 @@
 #+title: DnDisaster
 #+author: Stefan Rohrbacher,
 #+author: Tanja Rumpelmaier
+#+date: 2023
 #+latex_class: article
 #+latex_class_options: [11pt, twoside]
 #+latex_header: \usepackage[finnish, interlingua, latin, greek, italian, american, ngerman]{babel}
@@ -15,16 +16,21 @@
 #+latex: \newpage
 
 * Ideensammlung
+
  [] Questidee: Smaragdring von den schwarzen Büchern zurückholen
  [] Questidee: Menschen wurden entführt und man soll sie im Lager befreien und die Harpyien besiegen
  [] Questidee: Kannibalen-Hexe, die Kinder entführt und in einer Höhle roh verspeist; die Abenteurer müssen sie besiegen und die Kinder - sofern möglich - retten
  [] Tal der Schatten (Ork-Dorf)
  [] Wüste des Infernos (Süden) mit einer einzelnen Oase
  [] Endquest: Das Rätsel um Schloss Schattenhall → Es handelt sich um das Besiegen eines Drachen. Seine Schuppen sind aus Papier sowie Büchern und er hat einen Eisatem
- [x] Astario: Eintritt nur mit Passierschein, Gangster bietet Hintertür gegen Geld, versucht Spieler zu betrügen, wenn sie ihn töten -> mafia gegen sich
- [x] Astario: Mafiaboss will Putsch
- [] Wald der Giganten: junger Ork Häuptling muss zu einem Anführer heranwachsen nachdem sein Vater gestorben ist
+ [] Astario: Stadtwächter erklärt Passierschein und rettet Spieler vor Stadtsicherheit (Organisation für die Aquvisition von Opfern für die Etheri)
+ [] Astario: Eintritt nur mit Passierschein, Gangster bietet Hintertür gegen Geld, versucht Spieler zu betrügen, wenn sie ihn töten -> mafia gegen sich
+ [] Astario: Mafiaboss will Putsch
+ [] Wald der Giganten: junger Ork Häuptling Thrallund Stonesword/Steinschwert (s. Thorin Eichenschild für Name) muss zu einem Anführer heranwachsen nachdem sein Vater gestorben ist und möchte Frieden schließen
  [] Astario: Schmied in Not (Hattori)
+ [] Drachenminze + Drache Rondingo + Zauberer Pantefix: neutrale NPC's
+ [] Astario:  König Ylados beeinflusst von Etheri Zauberer Shikarus, Sohn Atholas kämpft dagegen
+
 
 * Intro
 - Land: Sommerset (Kesäsarja in Elfisch, Saamnom’raduv in Zwergisch) - Jahr 1250
@@ -149,20 +155,39 @@ In jedem Gebiet gibt es Trolle, Orks, Zyklopen und Riesen.
 #+latex: \clearpage
 
 ** Nomaden und Omnipräsente Wesen
-*** Me und Me\label{meme}
-2 ungleiche Zwillinge, ein Halbelf und ein Gnom(\ref{table:me1stats}) betreiben gemeinsam einen fahrenden Handel. Sie sind der festen Überzeugung Geschwister zu sein obwohl sie sich kein bisschen ähnlich sehen. Gezogen wird ihr Wagen von 2 Haflinger-Pferden Lo und Rd.
+*** Andersen & Andersen Gemischtwaren\label{andersen}
+2 ungleiche Zwillinge, ein Halbelf und ein Gnom(\ref{table:papylos}) betreiben gemeinsam einen fahrenden Handel. Sie sind der festen Überzeugung Geschwister zu sein obwohl sie sich kein bisschen ähnlich sehen. Gezogen wird ihr Wagen von einem Haflinger-Pferd.
 \begin{figure}[H]
 \centering
-\caption{Die Händler Me und Me}
-\label{fig:meme}
+\caption{Die Händler Papylos und Popylos Andersen}
+\label{fig:andersens}
   \begin{subfigure}{0.5\textwidth}
     \centering
-    \includegraphics[width=0.99\linewidth]{meme.jpeg}
-    %\caption{Ethera}
+    \includegraphics[width=0.99\linewidth]{andersens.jpeg}
   \end{subfigure}
 \end{figure}
 
-| *Mo (Gnom)*             | \label{table:me1stats}                    |
+| *Papylos (Gnom)*        | \label{table:papylos}                     |
+|-------------------------+-------------------------------------------|
+| *Rüstungsklasse*        | 15                                        |
+| *Lebenspunkte*          | 16                                        |
+| *Geschwindigkeit*       | 20ft                                      |
+| *Sprachen*              | Gnomisch, Gemeinsprache                   |
+|                         |                                           |
+| *Spitzhacke*            | Nahkampf: +4 auf Treffer,                 |
+|                         | Reichweite 5ft, ein Ziel, 6(1W8+2)        |
+| *vergifteter Dartpfeil* | Fernkampf: +4 auf Treffer,                |
+|                         | Reichweite 30/120ft, ein Ziel,            |
+|                         | 4(1W4+2), Ziel muss CON (12)              |
+|                         | rollen, ansonsten Vergiftung für 1 Minute |
+
+|  *STR* |  *DEX* |  *CON* |  *INT* |  *WIS* | *CHA* |
+|--------+--------+--------+--------+--------+-------|
+| 15(+2) | 14(+2) | 14(+2) | 12(+1) | 10(+0) | 9(-1) |
+
+
+##TODO: stats und fähigkeiten
+| *Popylos (Halbelf)*     | \label{table:popylos}                     |
 |-------------------------+-------------------------------------------|
 | *Rüstungsklasse*        | 15                                        |
 | *Lebenspunkte*          | 16                                        |
