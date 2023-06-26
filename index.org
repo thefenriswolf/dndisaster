@@ -16,7 +16,8 @@
 #+latex: \newpage
 
 * Ideensammlung
-
+ [] Questidee: Steuern von einenem Drachen eintreiben der aber kein Gold sondern Aktien besitzt.
+ [] Questidee: doofer Drache hortet Müll statt Gold und muss bezirzt werden den Abenteurern zu helfen
  [] Questidee: Smaragdring von den schwarzen Büchern zurückholen
  [] Questidee: Menschen wurden entführt und man soll sie im Lager befreien und die Harpyien besiegen
  [] Questidee: Kannibalen-Hexe, die Kinder entführt und in einer Höhle roh verspeist; die Abenteurer müssen sie besiegen und die Kinder - sofern möglich - retten
@@ -26,6 +27,7 @@
  [] Astario: Stadtwächter erklärt Passierschein und rettet Spieler vor Stadtsicherheit (Organisation für die Aquvisition von Opfern für die Etheri)
  [] Astario: Eintritt nur mit Passierschein, Gangster bietet Hintertür gegen Geld, versucht Spieler zu betrügen, wenn sie ihn töten -> mafia gegen sich
  [] Astario: Mafiaboss will Putsch
+ [] Astario: Gefängnisausbruch; Spieler sehen die Opferungen der Etheri
  [] Wald der Giganten: junger Ork Häuptling Thrallund Stonesword/Steinschwert (s. Thorin Eichenschild für Name) muss zu einem Anführer heranwachsen nachdem sein Vater gestorben ist und möchte Frieden schließen
  [] Astario: Schmied in Not (Hattori)
  [] Drachenminze + Drache Rondingo + Zauberer Pantefix: neutrale NPC's
